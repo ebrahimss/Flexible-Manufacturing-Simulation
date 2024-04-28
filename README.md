@@ -4,6 +4,8 @@
 ## Overview
 
 This repository contains the codebase for the Flexible Manufacturing Simulation platform, developed by the Center for Advanced Systems Research and Education (CASRE). This simulation tool provides a robust framework for modeling and analyzing manufacturing processes with various configurations, either using series or parallel line setups.
+for a brief presentation, visit [this slides](https://liveutk-my.sharepoint.com/:p:/r/personal/ssharifn_vols_utk_edu/Documents/Sharing_Media(s)/Simulation.pptx?d=w3f972a9573294970ade6446deb5fb5d8&csf=1&web=1&e=PFxVN8). 
+
 ![Felx_man_2](https://github.com/ebrahimss/Flexible-Manufacturing-Simulation/assets/54449000/e12487ea-36f5-4c65-bc6c-27832ae31494)
 
 ## Features
